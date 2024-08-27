@@ -1,0 +1,146 @@
+  CMS.Cases.resources - Embedded, ContainedInManifestFile, 
+  CMS.CrimeDetails.resources - Embedded, ContainedInManifestFile, 
+  CMS.Criminals.resources - Embedded, ContainedInManifestFile, 
+  CMS.Evidences.resources - Embedded, ContainedInManifestFile, 
+  CMS.FIR.resources - Embedded, ContainedInManifestFile, 
+  CMS.Forensics.resources - Embedded, ContainedInManifestFile, 
+  CMS.Main.resources - Embedded, ContainedInManifestFile, 
+  CMS.MyForm.resources - Embedded, ContainedInManifestFile, 
+  CMS.Officers.resources - Embedded, ContainedInManifestFile, 
+  CMS.Weapons.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly CMS, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class CMS.Cases: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(MYSQL*, Boolean): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    case_nocheck(Int32): PrivateScope, Public, HideBySig
+    addCaseDB(Int32, Int32, String, String, String, String): PrivateScope, Public, HideBySig
+    addCaseCSV(Int32, Int32, String, String, String, String): PrivateScope, Public, HideBySig
+    viewCaseDB(Int32): PrivateScope, Public, HideBySig
+    viewCaseCSV(Int32): PrivateScope, Public, HideBySig
+    removeCaseDB(Int32): PrivateScope, Public, HideBySig
+    removeCaseCSV(Int32): PrivateScope, Public, HideBySig
+Class CMS.CrimeDetails: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(MYSQL*, Boolean): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    MYSQL* currentconn : Public
+    Boolean isDbConnected : Public
+    Boolean textChange : Public
+  Methods:
+    resetpnl(): PrivateScope, Public, HideBySig
+    idCheckDb(Int32): PrivateScope, Public, HideBySig
+    addDetailsDatabase(Int32, String, String, String, Int32): PrivateScope, Public, HideBySig
+    addDetailsCSV(Int32, String, String, String, Int32): PrivateScope, Public, HideBySig
+    viewDetailsDatabase(Int32): PrivateScope, Public, HideBySig
+    ViewDetailsCSV(Int32): PrivateScope, Public, HideBySig
+    removefromDatabase(Int32): PrivateScope, Public, HideBySig
+    removefromCsv(Int32): PrivateScope, Public, HideBySig
+Class CMS.Criminals: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(MYSQL*, Boolean): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    idcheckDB(Int32): PrivateScope, Public, HideBySig
+    addDetailDatabase(): PrivateScope, Public, HideBySig
+    addDetaiCSV(): PrivateScope, Public, HideBySig
+    viewdetaildatabase(Int32): PrivateScope, Public, HideBySig
+    viewdetailcsv(Int32): PrivateScope, Public, HideBySig
+    removedetaildatabase(Int32): PrivateScope, Public, HideBySig
+    removedetailcsv(Int32): PrivateScope, Public, HideBySig
+Class CMS.Evidences: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(MYSQL*, Boolean): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    MYSQL* currentconn : Public
+    Boolean isDbConnected : Public
+    Boolean textChange : Public
+  Methods:
+    idCheckDb(Int32): PrivateScope, Public, HideBySig
+    addDetailDatabase(): PrivateScope, Public, HideBySig
+    addDetailCSV(): PrivateScope, Public, HideBySig
+    viewDetailDatabase(Int32): PrivateScope, Public, HideBySig
+    viewDetailCSV(Int32): PrivateScope, Public, HideBySig
+    removeDetailDatabase(Int32): PrivateScope, Public, HideBySig
+    removeDetailCsv(Int32): PrivateScope, Public, HideBySig
+Class CMS.FIR: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(MYSQL*, Boolean): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    IDcheckDb(Int32): PrivateScope, Public, HideBySig
+    addDetailsDatabase(Int32, Int32, String, String, String): PrivateScope, Public, HideBySig
+    addDetailCsv(Int32, Int32, String, String, String): PrivateScope, Public, HideBySig
+    viewDetailDatabase(Int32): PrivateScope, Public, HideBySig
+    viewDetailCSV(Int32): PrivateScope, Public, HideBySig
+    removeDetailDatabase(Int32): PrivateScope, Public, HideBySig
+    removeDetailCSV(Int32): PrivateScope, Public, HideBySig
+Class CMS.Forensics: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(MYSQL*, Boolean): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    MYSQL* currentconn : Public
+    Boolean isDbEnabled : Public
+    Boolean textChange : Public
+  Methods:
+    resetpnl(): PrivateScope, Public, HideBySig
+    createReportDB(Int32, String, String, String, String, String): PrivateScope, Public, HideBySig
+    createreportCSV(Int32, String, String, String, String, String): PrivateScope, Public, HideBySig
+    viewreportdb(Int32): PrivateScope, Public, HideBySig
+    viewreportCSV(Int32): PrivateScope, Public, HideBySig
+    removereportdb(Int32): PrivateScope, Public, HideBySig
+    removereportCSV(Int32): PrivateScope, Public, HideBySig
+Class CMS.Weapons: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(MYSQL*, Boolean): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    MYSQL* currentconn : Public
+    Boolean isDbConnected : Public
+    Boolean textChange : Public
+  Methods:
+    IDcheckDb(Int32): PrivateScope, Public, HideBySig
+    addDetailsDatabase(String, Int32, String, String, String, Int32): PrivateScope, Public, HideBySig
+    addDetailsCSV(String, Int32, String, String, String, Int32): PrivateScope, Public, HideBySig
+    viewDetailsDatabase(Int32): PrivateScope, Public, HideBySig
+    viewDetailsCSV(Int32): PrivateScope, Public, HideBySig
+    removedetailDatabase(Int32): PrivateScope, Public, HideBySig
+    removeDetailCSV(Int32): PrivateScope, Public, HideBySig
+Class CMS.Officers: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(MYSQL*, Boolean): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    idcheckdb(Int32): PrivateScope, Public, HideBySig
+    AddDetailsDB(Int32, String, String, Int32, String, String): PrivateScope, Public, HideBySig
+    adddetailcsv(): PrivateScope, Public, HideBySig
+    viewdetailsdatabase(Int32): PrivateScope, Public, HideBySig
+    viewdetailscsv(Int32): PrivateScope, Public, HideBySig
+    removedetaildatabase(Int32): PrivateScope, Public, HideBySig
+    removedetailcsv(Int32): PrivateScope, Public, HideBySig
+Class CMS.Main: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Boolean isDbEnabled : Public
+Class CMS.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

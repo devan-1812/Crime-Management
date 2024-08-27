@@ -1,0 +1,70 @@
+D:\study material\New folder\CMS\x64\Debug\CMS.vcxproj.AssemblyReference.cache
+D:\study material\New folder\CMS\x64\Debug\CMS.vcxproj.SuggestedBindingRedirects.cache
+D:\study material\New folder\CMS\x64\Debug\CMS.exe
+D:\study material\New folder\CMS\x64\Debug\CMS.MyForm.resources
+D:\study material\New folder\CMS\x64\Debug\CMS.vcxproj.GenerateResource.cache
+C:\Users\Hp\Desktop\CMS\x64\Debug\CMS.vcxproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\CMS\x64\Debug\CMS.MyForm.resources
+C:\Users\Hp\Desktop\CMS\x64\Debug\CMS.vcxproj.GenerateResource.cache
+C:\Users\Hp\Desktop\CMS\x64\Debug\CMS.exe
+C:\Users\Hp\Desktop\CMS\x64\Debug\CMS.Main.resources
+C:\Users\Hp\Desktop\CMS\x64\Debug\CMS.CrimeDetails.resources
+D:\study material\New folder\CMS1\CMS\x64\Debug\CMS.vcxproj.AssemblyReference.cache
+D:\study material\New folder\CMS1\CMS\x64\Debug\CMS.vcxproj.SuggestedBindingRedirects.cache
+D:\study material\New folder\CMS1\CMS\x64\Debug\CMS.CrimeDetails.resources
+D:\study material\New folder\CMS1\CMS\x64\Debug\CMS.Main.resources
+D:\study material\New folder\CMS1\CMS\x64\Debug\CMS.MyForm.resources
+D:\study material\New folder\CMS1\CMS\x64\Debug\CMS.vcxproj.GenerateResource.cache
+D:\study material\New folder\CMS1\CMS\x64\Debug\CMS.exe
+D:\study material\New folder\CMS-20220926T111353Z-001\CMS\x64\Debug\CMS.vcxproj.AssemblyReference.cache
+D:\study material\New folder\CMS-20220926T111353Z-001\CMS\x64\Debug\CMS.vcxproj.SuggestedBindingRedirects.cache
+D:\study material\New folder\CMS-20220926T111353Z-001\CMS\x64\Debug\CMS.CrimeDetails.resources
+D:\study material\New folder\CMS-20220926T111353Z-001\CMS\x64\Debug\CMS.Main.resources
+D:\study material\New folder\CMS-20220926T111353Z-001\CMS\x64\Debug\CMS.MyForm.resources
+D:\study material\New folder\CMS-20220926T111353Z-001\CMS\x64\Debug\CMS.vcxproj.GenerateResource.cache
+D:\study material\New folder\CMS-20220926T111353Z-001\CMS\x64\Debug\CMS.exe
+D:\study material\New folder\CMS-20220926T111353Z-001\CMS\x64\Debug\CMS.Criminals.resources
+C:\Users\Hp\Downloads\CMS\x64\Debug\CMS.vcxproj.AssemblyReference.cache
+C:\Users\Hp\Downloads\CMS\x64\Debug\CMS.CrimeDetails.resources
+C:\Users\Hp\Downloads\CMS\x64\Debug\CMS.Criminals.resources
+C:\Users\Hp\Downloads\CMS\x64\Debug\CMS.Main.resources
+C:\Users\Hp\Downloads\CMS\x64\Debug\CMS.MyForm.resources
+C:\Users\Hp\Downloads\CMS\x64\Debug\CMS.vcxproj.GenerateResource.cache
+C:\Users\Hp\Downloads\CMS\x64\Debug\CMS.exe
+C:\Users\Hp\Desktop\CMS\x64\Debug\CMS.Criminals.resources
+D:\study material\New folder\CMS\CMS\x64\Debug\CMS.vcxproj.AssemblyReference.cache
+D:\study material\New folder\CMS\CMS\x64\Debug\CMS.vcxproj.SuggestedBindingRedirects.cache
+D:\study material\New folder\CMS\CMS\x64\Debug\CMS.CrimeDetails.resources
+D:\study material\New folder\CMS\CMS\x64\Debug\CMS.Criminals.resources
+D:\study material\New folder\CMS\CMS\x64\Debug\CMS.Main.resources
+D:\study material\New folder\CMS\CMS\x64\Debug\CMS.MyForm.resources
+D:\study material\New folder\CMS\CMS\x64\Debug\CMS.vcxproj.GenerateResource.cache
+D:\study material\New folder\CMS\CMS\x64\Debug\CMS.exe
+D:\study material\New folder\CMS\CMS\x64\Debug\CMS.Weapons.resources
+C:\Users\Hp\Downloads\CMS\CMS\x64\Debug\CMS.vcxproj.AssemblyReference.cache
+C:\Users\Hp\Downloads\CMS\CMS\x64\Debug\CMS.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Downloads\CMS\CMS\x64\Debug\CMS.CrimeDetails.resources
+C:\Users\Hp\Downloads\CMS\CMS\x64\Debug\CMS.Criminals.resources
+C:\Users\Hp\Downloads\CMS\CMS\x64\Debug\CMS.Main.resources
+C:\Users\Hp\Downloads\CMS\CMS\x64\Debug\CMS.MyForm.resources
+C:\Users\Hp\Downloads\CMS\CMS\x64\Debug\CMS.Weapons.resources
+C:\Users\Hp\Downloads\CMS\CMS\x64\Debug\CMS.vcxproj.GenerateResource.cache
+C:\Users\Hp\Downloads\CMS\CMS\x64\Debug\CMS.exe
+D:\study material\New folder\CMS\x64\Debug\CMS.CrimeDetails.resources
+D:\study material\New folder\CMS\x64\Debug\CMS.Criminals.resources
+D:\study material\New folder\CMS\x64\Debug\CMS.Main.resources
+D:\study material\New folder\CMS\x64\Debug\CMS.Weapons.resources
+D:\study material\New folder\CMS\x64\Debug\CMS.Forensics.resources
+D:\study material\New folder\CMS\x64\Debug\CMS.FIR.resources
+C:\Users\asads\Desktop\CMS\x64\Debug\CMS.vcxproj.AssemblyReference.cache
+C:\Users\asads\Desktop\CMS\x64\Debug\CMS.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\asads\Desktop\CMS\x64\Debug\CMS.CrimeDetails.resources
+C:\Users\asads\Desktop\CMS\x64\Debug\CMS.Criminals.resources
+C:\Users\asads\Desktop\CMS\x64\Debug\CMS.FIR.resources
+C:\Users\asads\Desktop\CMS\x64\Debug\CMS.Forensics.resources
+C:\Users\asads\Desktop\CMS\x64\Debug\CMS.Main.resources
+C:\Users\asads\Desktop\CMS\x64\Debug\CMS.MyForm.resources
+C:\Users\asads\Desktop\CMS\x64\Debug\CMS.Weapons.resources
+C:\Users\asads\Desktop\CMS\x64\Debug\CMS.vcxproj.GenerateResource.cache
+C:\Users\asads\Desktop\CMS\x64\Debug\CMS.exe
+D:\study material\New folder\CMS\x64\Debug\CMS.Cases.resources
